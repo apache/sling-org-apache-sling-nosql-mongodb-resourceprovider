@@ -35,7 +35,7 @@
     <description>Resource Provider with MongoDB Persistence for Apache Sling.</description>
   
     <scm>
-        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-nosql-mongodb-resourceprovider.git</conncetion>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-nosql-mongodb-resourceprovider.git</connection>
         <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-nosql-mongodb-resourceprovider.git</developerConnection>
         <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-nosql-mongodb-resourceprovider.git</url>
     </scm>
